@@ -1,6 +1,6 @@
 Package: scHiCcompare
 Title: Differential Analysis of Single-cell Hi-C Data
-Version: 1.2.0
+Version: 1.3.0
 Authors@R: c(
     person(given = "My", family = "Nguyen",
            email = "hamy.12398@gmail.com",
